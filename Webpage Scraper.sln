@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Webpage Scraper", "Webpage Scraper\Webpage Scraper.vcxproj", "{15CC7B62-3F70-41D3-9785-820E02E352C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15CC7B62-3F70-41D3-9785-820E02E352C5}.Debug|x64.ActiveCfg = Debug|x64
+		{15CC7B62-3F70-41D3-9785-820E02E352C5}.Debug|x64.Build.0 = Debug|x64
+		{15CC7B62-3F70-41D3-9785-820E02E352C5}.Debug|x86.ActiveCfg = Debug|Win32
+		{15CC7B62-3F70-41D3-9785-820E02E352C5}.Debug|x86.Build.0 = Debug|Win32
+		{15CC7B62-3F70-41D3-9785-820E02E352C5}.Release|x64.ActiveCfg = Release|x64
+		{15CC7B62-3F70-41D3-9785-820E02E352C5}.Release|x64.Build.0 = Release|x64
+		{15CC7B62-3F70-41D3-9785-820E02E352C5}.Release|x86.ActiveCfg = Release|Win32
+		{15CC7B62-3F70-41D3-9785-820E02E352C5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935E2F58-8F71-49CB-84E8-7D963F4B75C5}
+	EndGlobalSection
+EndGlobal
